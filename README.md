@@ -15,6 +15,15 @@ Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sac
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 Practicas
+Bosquejo de la app:
+Usuario
+El usuario debe loguearse para llegar al home, en caso de no tener cuenta debe crear una. En el Home tendrán dos opciones. Crear una solicitud nueva o ver el estado de su solicitud. Crear una nueva solicitud de demanda: debe llenar un formulario con los datos pertinentes a la demanda, luego un formulario de pago por el recibimiento de la demanda. Ver demandas: el usuario podrá ver el estado de su demanda de acuerdo a las actualizaciones del proceso y los comentarios que el abogado va ingresando a medida que el proceso avance. Modificar sus datos de perfil y contraseña.
+
+Administrador (Abogado)
+El administrador debe loguearse con la cuenta que les fue asignada Ver solicitudes nuevas de demanda Ingresar actualización en demandas anteriores: Selecciona demandas anteriores, luego en la lista selecciona la demanda a actualizar, luego un formulario para ingresar una actualización del proceso y los comentarios del mismo también puede solicitar un pago adicional para que el proceso continúe a la siguiente fase. Ver pagos recibidos.
+
+
+
 
 ### Requerimientos
 
@@ -54,6 +63,6 @@ Les gusta lo moderno.
 Son activos en las redes sociales.
 Les gusta el orden y quieren estar en control en todos los aspectos de su vida.
 
-### UX
+### User Experience - Wireframes
 
-### UI
+### User Interface
