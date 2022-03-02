@@ -25,7 +25,14 @@ El administrador debe loguearse con la cuenta que les fue asignada Ver solicitud
 
 
 ### Requerimientos
-
+Sistema de sign in y sign up
+Formulario de nueva solicitud de consulta legal
+Formulario o pasarela de pago
+Visualización de actualizaciones en el proceso de la demanda
+Sign up para administradores
+Dashboard mostrando los pagos recibidos, las nuevas consultas solicitadas y en proceso
+Pantalla para hacer modificaciones, agregar comentarios y solicitar nuevos pagos de las demandas en proceso
+Crear documento legal en .docx automáticamente
 ### Buyer persona
 Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago es una persona muy activa. Es el primero en llegar a su trabajo y el último en irse. Estudió Contabilidad en la universidad porque siempre tuvo facilidad con las matemáticas y quería manejar las finanzas del negocio de su padre. Al graduarse empezó a trabajar tiempo completo en el negocio de su padre haciendo de esta una de las más exitosas del estado. Al pasar de los años compró la empresa a su padre, convirtiéndose en el único dueño. Tiene un grupo pequeño de amigos con los que les gusta salir a divertirse, pero rara vez encuentra tiempo para hacerlo. No tiene esposa aún, pero planea tenerla en los próximos años.
 
