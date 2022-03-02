@@ -19,8 +19,40 @@ Practicas
 ### Requerimientos
 
 ### Buyer persona
+Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago es una persona muy activa. Es el primero en llegar a su trabajo y el último en irse. Estudió Contabilidad en la universidad porque siempre tuvo facilidad con las matemáticas y quería manejar las finanzas del negocio de su padre. Al graduarse empezó a trabajar tiempo completo en el negocio de su padre haciendo de esta una de las más exitosas del estado. Al pasar de los años compró la empresa a su padre, convirtiéndose en el único dueño. Tiene un grupo pequeño de amigos con los que les gusta salir a divertirse, pero rara vez encuentra tiempo para hacerlo. No tiene esposa aún, pero planea tenerla en los próximos años.
+
+**Personalidad:** Es una persona muy positiva y alegre. Le gusta tomar el liderazgo y tomar las decisiones. Disfruta de la compañía de sus amigos.
+
+**Metas:** Sueña con convertir a su concesionaria en la primera del estado. Fundar franquicias en todo el país. Invertir en nuevos emprendimientos. Tener una familia.
+
+**Frustraciones:** Que tenga que hacer todo por sí mismo por incompetencia de sus empleados. Tener que lidiar con cuestiones legales. No tener suficiente tiempo para otras actividades. Que ya tiene treinta años y aún no se ha casado.
+
+**Necesidades:** Más tiempo para otras actividades fuera del trabajo. Necesita personas calificadas a su alrededor. Requiere de una familia para sentirse completo.
 
 ### Publico objetivo
+#### Perfil Geográfico:
+Que vivan en Tabasco o Chiapas.
+Que hablen español.
+Habitantes urbanos.
+#### Perfil Demográfico:
+Personas entre 28 y 50 años.
+Con ingresos de 8000 pesos en adelante.
+Sin distinción de género.
+Con título universitario.
+Trabajan en finanzas o negocios.
+Tienen vivienda propia.
+#### Perfil Psicográfico:
+Que tengan un estilo de vida ocupado.
+Valoran el tiempo y no les gusta esperar.
+Han tenido problemas legales anteriormente.
+No están conformes con el manejo de sus asuntos legales actualmente.
+#### Perfil de comportamiento:
+Personas activas y trabajadoras.
+Son abiertos a las nuevas tecnologías.
+Buscan la rapidez en los servicios.
+Les gusta lo moderno.
+Son activos en las redes sociales.
+Les gusta el orden y quieren estar en control en todos los aspectos de su vida.
 
 ### UX
 
