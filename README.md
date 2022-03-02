@@ -4,9 +4,9 @@ Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sac
 
 ## Caso: Abogabot Descripción:
 
-_ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
+- Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
-_ Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
+- Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
 
 Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
 
