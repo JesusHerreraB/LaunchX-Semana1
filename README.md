@@ -50,6 +50,7 @@ interesadas en nuevas tecnologías.
 Buscar rapidez en un servicio.
 Personas buscando ayuda legal
 
+![Publico objetivo](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Publico%20objetivo.PNG)
 ### User Experience - Wireframes
 
 ### User Interface
