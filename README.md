@@ -44,7 +44,7 @@ Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago e
 **Frustraciones:** Que tenga que hacer todo por sí mismo por incompetencia de sus empleados. Tener que lidiar con cuestiones legales. No tener suficiente tiempo para otras actividades. Que ya tiene treinta años y aún no se ha casado.
 
 **Necesidades:** Más tiempo para otras actividades fuera del trabajo. Necesita personas calificadas a su alrededor. Requiere de una familia para sentirse completo.
-![text(]https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Buyer%20persona.PNG)
+![text](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Buyer%20persona.PNG)
 ### Publico objetivo
 #### Perfil Geográfico:
 Que vivan en Tabasco o Chiapas.
