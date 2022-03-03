@@ -14,61 +14,40 @@ Practicas de Intro a Frontend
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-Practicas
-Bosquejo de la app:
-Usuario
-El usuario debe loguearse para llegar al home, en caso de no tener cuenta debe crear una. En el Home tendrán dos opciones. Crear una solicitud nueva o ver el estado de su solicitud. Crear una nueva solicitud de demanda: debe llenar un formulario con los datos pertinentes a la demanda, luego un formulario de pago por el recibimiento de la demanda. Ver demandas: el usuario podrá ver el estado de su demanda de acuerdo a las actualizaciones del proceso y los comentarios que el abogado va ingresando a medida que el proceso avance. Modificar sus datos de perfil y contraseña.
-
-Administrador (Abogado)
-El administrador debe loguearse con la cuenta que les fue asignada Ver solicitudes nuevas de demanda Ingresar actualización en demandas anteriores: Selecciona demandas anteriores, luego en la lista selecciona la demanda a actualizar, luego un formulario para ingresar una actualización del proceso y los comentarios del mismo también puede solicitar un pago adicional para que el proceso continúe a la siguiente fase. Ver pagos recibidos.
-
-
-
-
 ### Requerimientos
-1. Sistema de inicio/cierre de sesión para usuarios y administradores
-2. Formulario de nueva solicitud de consulta legal
-3. Formulario o pasarela de pago
-4. Visualización de actualizaciones en el proceso de la demanda
-6. Dashboard mostrando los pagos recibidos, las nuevas consultas solicitadas y en proceso
-7. Pantalla para hacer modificaciones, agregar comentarios y solicitar nuevos pagos de las demandas en proceso
-8. Crear documento legal en .docx automáticamente
+1. Formulario de solicitud de consulta legal
+2. Formulario de pago
+3. Sistema de inicio/cierre de sesión para usuarios
+4. Visualización de actualizaciones en el proceso legal
+5. Sistema de inicio/cierre de sesión para administrador
+6. Visualización de los pagos recibidos, las nuevas consultas solicitadas y en proceso
+7. Visualización para hacer modificaciones, administracion de comentarios y solicitar nuevos pagos de las demandas en proceso
+8. Crear informe automáticamente (.docx)
 
 ### Buyer persona
-Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago es una persona muy activa. Es el primero en llegar a su trabajo y el último en irse. Estudió Contabilidad en la universidad porque siempre tuvo facilidad con las matemáticas y quería manejar las finanzas del negocio de su padre. Al graduarse empezó a trabajar tiempo completo en el negocio de su padre haciendo de esta una de las más exitosas del estado. Al pasar de los años compró la empresa a su padre, convirtiéndose en el único dueño. Tiene un grupo pequeño de amigos con los que les gusta salir a divertirse, pero rara vez encuentra tiempo para hacerlo. No tiene esposa aún, pero planea tenerla en los próximos años.
+Harvey Specter, Edad 40, socio titular de la firma de abogados Specter Litt. Es capaz de ser extremadamente encantador, persuasivo y juguetón, aunque no siempre ejerce estos rasgos. Su buena apariencia, sonrisa fácil, confianza y carisma lo convierten en un éxito tanto para los clientes como para las damas. Estudió leyes en Harvard patrocinado por Jessica Pearson. Al graduarse Jessica quería que él ganara "experiencia en juicios", por lo que le recomendó que trabajara como asistente del fiscal de distrito de Nueva York, trabajo durante 2 años, fue contratado por Jessica y subió de rango y se convirtió en asociado principal y posteriormente en titular de la firma.
 
-**Personalidad:** Es una persona muy positiva y alegre. Le gusta tomar el liderazgo y tomar las decisiones. Disfruta de la compañía de sus amigos.
+**Metas:** es denominado como el mejor consiliador de la ciudad de New york. Desea ser el mejor abogado del pais.
 
-**Metas:** Sueña con convertir a su concesionaria en la primera del estado. Fundar franquicias en todo el país. Invertir en nuevos emprendimientos. Tener una familia.
+**Frustraciones:** problemas emociobnales derivados de su infancia, asi como ataques de ansiedad durante el trabajo.
 
-**Frustraciones:** Que tenga que hacer todo por sí mismo por incompetencia de sus empleados. Tener que lidiar con cuestiones legales. No tener suficiente tiempo para otras actividades. Que ya tiene treinta años y aún no se ha casado.
-
-**Necesidades:** Más tiempo para otras actividades fuera del trabajo. Necesita personas calificadas a su alrededor. Requiere de una familia para sentirse completo.
+**Necesidades:**  Necesita personas audaces a su alrededor, que generen un reto intelectual y sean similares a el. Requiere lealtad de la gente a su alrededor.
 ![text](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Buyer%20persona.PNG)
+
 ### Publico objetivo
 #### Perfil Geográfico:
-Que vivan en Tabasco o Chiapas.
-Que hablen español.
-Habitantes urbanos.
+Clientes que vivan en New York
 #### Perfil Demográfico:
-Personas entre 28 y 50 años.
-Con ingresos de 8000 pesos en adelante.
+Empresarios.
 Sin distinción de género.
-Con título universitario.
-Trabajan en finanzas o negocios.
-Tienen vivienda propia.
+Trabajan en Empresas o corporaciones.
 #### Perfil Psicográfico:
-Que tengan un estilo de vida ocupado.
-Valoran el tiempo y no les gusta esperar.
-Han tenido problemas legales anteriormente.
-No están conformes con el manejo de sus asuntos legales actualmente.
+Que tengan o hayan tenido problemas legales.
+Inconformidad con el manejo de sus asuntos legales.
 #### Perfil de comportamiento:
 Personas activas y trabajadoras.
-Son abiertos a las nuevas tecnologías.
-Buscan la rapidez en los servicios.
-Les gusta lo moderno.
-Son activos en las redes sociales.
-Les gusta el orden y quieren estar en control en todos los aspectos de su vida.
+interesadas en nuevas tecnologías.
+Buscar rapidez en un servicio.
 
 ### User Experience - Wireframes
 
