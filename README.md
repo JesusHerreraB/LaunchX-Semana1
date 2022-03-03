@@ -1,7 +1,8 @@
 # LaunchX-Semana1
 Practicas de Intro a Frontend
 
-## Caso: Abogabot Descripción:
+## Caso: Abogabot 
+**Descripción:**
 
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
@@ -25,15 +26,14 @@ El administrador debe loguearse con la cuenta que les fue asignada Ver solicitud
 
 
 ### Requerimientos
-1. Sistema de sign in y sign up
+1. Sistema de inicio/cierre de sesión para usuarios y administradores
 2. Formulario de nueva solicitud de consulta legal
 3. Formulario o pasarela de pago
 4. Visualización de actualizaciones en el proceso de la demanda
-5. Sign up para administradores
 6. Dashboard mostrando los pagos recibidos, las nuevas consultas solicitadas y en proceso
 7. Pantalla para hacer modificaciones, agregar comentarios y solicitar nuevos pagos de las demandas en proceso
 8. Crear documento legal en .docx automáticamente
-9. 
+
 ### Buyer persona
 Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago es una persona muy activa. Es el primero en llegar a su trabajo y el último en irse. Estudió Contabilidad en la universidad porque siempre tuvo facilidad con las matemáticas y quería manejar las finanzas del negocio de su padre. Al graduarse empezó a trabajar tiempo completo en el negocio de su padre haciendo de esta una de las más exitosas del estado. Al pasar de los años compró la empresa a su padre, convirtiéndose en el único dueño. Tiene un grupo pequeño de amigos con los que les gusta salir a divertirse, pero rara vez encuentra tiempo para hacerlo. No tiene esposa aún, pero planea tenerla en los próximos años.
 
@@ -44,7 +44,7 @@ Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago e
 **Frustraciones:** Que tenga que hacer todo por sí mismo por incompetencia de sus empleados. Tener que lidiar con cuestiones legales. No tener suficiente tiempo para otras actividades. Que ya tiene treinta años y aún no se ha casado.
 
 **Necesidades:** Más tiempo para otras actividades fuera del trabajo. Necesita personas calificadas a su alrededor. Requiere de una familia para sentirse completo.
-
+/assets/images/Buyer persona.png
 ### Publico objetivo
 #### Perfil Geográfico:
 Que vivan en Tabasco o Chiapas.
