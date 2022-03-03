@@ -32,7 +32,8 @@ Harvey Specter, Edad 40, socio titular de la firma de abogados Specter Litt. Es 
 **Frustraciones:** problemas emociobnales derivados de su infancia, asi como ataques de ansiedad durante el trabajo.
 
 **Necesidades:**  Necesita personas audaces a su alrededor, que generen un reto intelectual y sean similares a el. Requiere lealtad de la gente a su alrededor.
-![text](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Buyer%20persona.PNG)
+
+![Buyer Persona](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Buyer%20persona.PNG)
 
 ### Publico objetivo
 #### Perfil Geográfico:
@@ -45,9 +46,9 @@ Trabajan en Empresas o corporaciones.
 Que tengan o hayan tenido problemas legales.
 Inconformidad con el manejo de sus asuntos legales.
 #### Perfil de comportamiento:
-Personas activas y trabajadoras.
 interesadas en nuevas tecnologías.
 Buscar rapidez en un servicio.
+Personas buscando ayuda legal
 
 ### User Experience - Wireframes
 
