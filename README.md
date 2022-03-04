@@ -27,28 +27,28 @@ Practicas de Intro a Frontend
 ### Buyer persona
 Harvey Specter, Edad 40, socio titular de la firma de abogados Specter Litt. Es capaz de ser extremadamente encantador, persuasivo y juguetón, aunque no siempre ejerce estos rasgos. Su buena apariencia, sonrisa fácil, confianza y carisma lo convierten en un éxito tanto para los clientes como para las damas. Estudió leyes en Harvard patrocinado por Jessica Pearson. Al graduarse Jessica quería que él ganara "experiencia en juicios", por lo que le recomendó que trabajara como asistente del fiscal de distrito de Nueva York, trabajo durante 2 años, fue contratado por Jessica y subió de rango y se convirtió en asociado principal y posteriormente en titular de la firma.
 
-**Metas:** es denominado como el mejor consiliador de la ciudad de New york. Desea ser el mejor abogado del pais.
+**Objetivos:** es denominado como el mejor consiliador de la ciudad de New york. Desea ser el mejor abogado del pais.
 
-**Frustraciones:** problemas emociobnales derivados de su infancia, asi como ataques de ansiedad durante el trabajo.
+**Desafios:** problemas emociobnales derivados de su infancia, asi como ataques de ansiedad durante el trabajo.
 
 **Necesidades:**  Necesita personas audaces a su alrededor, que generen un reto intelectual y sean similares a el. Requiere lealtad de la gente a su alrededor.
 
 ![Buyer Persona](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Buyer%20persona.PNG)
 
 ### Publico objetivo
-#### Perfil Geográfico:
-Clientes que vivan en New York
 #### Perfil Demográfico:
 Empresarios.
 Sin distinción de género.
 Trabajan en Empresas o corporaciones.
+#### Perfil Geográfico:
+Clientes que vivan en New York.
 #### Perfil Psicográfico:
 Que tengan o hayan tenido problemas legales.
 Inconformidad con el manejo de sus asuntos legales.
-#### Perfil de comportamiento:
-interesadas en nuevas tecnologías.
+#### Perfil de Comportamiento:
+Interesadas en nuevas tecnologías.
 Buscar rapidez en un servicio.
-Personas buscando ayuda legal
+Personas buscando ayuda legal.
 
 ![Publico objetivo](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Publico%20objetivo.PNG)
 ### User Experience - Wireframes
