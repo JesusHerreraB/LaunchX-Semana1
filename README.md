@@ -52,5 +52,6 @@ Personas buscando ayuda legal.
 
 ![Publico objetivo](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/Publico%20objetivo.PNG)
 ### User Experience - Wireframes
-
+![UE1](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/UE1.PNG)
 ### User Interface
+![UI1](https://github.com/JesusHerreraB/LaunchX-Semana1/blob/main/UI1.PNG)
