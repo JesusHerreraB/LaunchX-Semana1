@@ -14,6 +14,11 @@ Practicas de Intro a Frontend
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
+### Bosquejo
+#### Usuario
+El usuario debe ingresar a la app, si no tiene cuenta debe crear una. Tendrán dos opciones: Crear una solicitud nueva o ver el estado de su solicitud. Crear una nueva solicitud de demanda: debe llenar un formulario con los datos solicitados, el usuario podrá ver el estado de su demanda de acuerdo a las actualizaciones del proceso. Modificar sus datos de perfil y contraseña.
+#### Administrador
+El administrador debe ingresar a la app para Ver solicitudes nuevas de demanda Ingresar actualización en demandas anteriores: Selecciona demandas anteriores, luego en la lista selecciona la demanda a actualizar, luego un formulario para ingresar una actualización del proceso.
 ### Requerimientos
 1. Formulario de solicitud de consulta legal
 2. Formulario de pago
